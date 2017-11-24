@@ -12,4 +12,4 @@ Add hyper-pastel-dark to plugins in ~/.hyperterm.js.
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/MojoBandit/hyper-pastel-dark/master/preview/variables.png "Preview")
+![Preview](https://raw.githubusercontent.com/MojoBandit/hyper-pastel-dark/master/preview.png "Preview")

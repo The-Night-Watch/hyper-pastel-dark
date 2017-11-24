@@ -1,0 +1,23 @@
+{
+  "name": "hyper-pastel-dark",
+  "version": "1.0.0",
+  "description": "A calming theme for hyperterm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MojoBandit/hyper-pastel-dark.git"
+  },
+  "keywords": [
+    "hyper",
+    "calm"
+  ],
+  "author": "Art Segalas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MojoBandit/hyper-pastel-dark/issues"
+  },
+  "homepage": "https://github.com/MojoBandit/hyper-pastel-dark#readme"
+}

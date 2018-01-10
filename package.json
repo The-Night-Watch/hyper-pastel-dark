@@ -1,6 +1,6 @@
 {
   "name": "hyper-pastel-dark",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A calming theme for hyperterm.",
   "main": "index.js",
   "scripts": {
